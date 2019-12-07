@@ -63,6 +63,7 @@ int main(int argc, const char** argv) {
     cout << s.longestConsecutive(arr) << endl;
     system("pause");
     return 0;
+<<<<<<< HEAD
 }
 
 /*
@@ -72,3 +73,6 @@ https://leetcode-cn.com/problems/longest-consecutive-sequence/solution/zui-chang
 自己的思路： 并查集
 构建并查集前后联系
 */
+=======
+}
+>>>>>>> 96fa501de80fb65d307b1c2821ece8d1aa0fad44
