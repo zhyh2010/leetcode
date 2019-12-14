@@ -103,3 +103,9 @@ int main(int argc, const char** argv) {
     cout << endl;
     return 0;
 }
+
+
+/**
+ * https://leetcode-cn.com/problems/next-greater-node-in-linked-list/solution/cli-yong-zhan-shi-xian-by-yang-tian-lun/
+ * 使用栈处理
+*/
